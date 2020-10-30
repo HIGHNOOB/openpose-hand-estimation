@@ -15,4 +15,3 @@ opencv-python 4.3.0
 
 ![iamge1](/images/cap1.png)
 ![iamge2](/images/cap2.png)
-![iamge3](/images/cap3.png)
